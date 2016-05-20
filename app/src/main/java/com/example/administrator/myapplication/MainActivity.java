@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.i("TAG", "-------test---4--------");
+        Log.i("TAG", "-------tes2---  1--------");
     }
 
     @Override
